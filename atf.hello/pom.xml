@@ -4,7 +4,8 @@
   <groupId>grp.hello</groupId>
   <artifactId>atf.hello</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.2.0-SNAPSHOT</version>
+  <version>1.2.0.Final</version>
   <name>atf.hello Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
