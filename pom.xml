@@ -19,6 +19,11 @@
 	<build>
 		<finalName>atf.hello</finalName>
 	</build>
+	<properties>
+		<!-- other plugin versions -->
+		<version.surefire.plugin>2.10</version.surefire.plugin>
+		<version.war.plugin>2.1.1</version.war.plugin>
+	</properties>
 	<profiles>
 		<profile>
 			<!-- When built in OpenShift the 'openshift' profile will be used when 
